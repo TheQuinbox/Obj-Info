@@ -15,4 +15,4 @@ spoon.ObjInfo:start()
 
 ## Hotkeys.
 
-* Control+Shift+F1: Show accessibility information about currently focused UI element in a text field.
+* Control+Shift+F1: Show accessibility information about the currently focused UI element in a text field.
